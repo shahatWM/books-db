@@ -5,3 +5,5 @@ CREATE TABLE books (
     isbn_code VARCHAR(50) NOT NULL,
     description TEXT
 );
+-- Add this line or change a book title
+-- Updated book title
